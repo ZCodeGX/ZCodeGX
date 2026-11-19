@@ -66,7 +66,7 @@ A selection of projects from my development journey. Project status and descript
 
 | Project | What it is |
 |---|---|
-| [CGame](https://github.com/aminbena010-ai/CGame) | C++20 and Vulkan 2D game-engine project. |
+| [CGame](https://github.com/ZCodeGX/CGame) | C++20 and Vulkan 2D game-engine project. |
 | [Uron](https://github.com/aminbena010-ai/Uron) | Modular game-engine project focused on native technology. |
 | [PyUron](https://github.com/aminbena010-ai/PyUron) | Python game-engine project and graphics experiments. |
 | [GameTs](https://github.com/aminbena010-ai/GameTs) | TypeScript library for 2D games in the browser. |
